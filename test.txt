@@ -11,3 +11,4 @@ pull request 3
 master 7
 a good sample repository
 a very good sample repository
+indeed a very good sample repository
